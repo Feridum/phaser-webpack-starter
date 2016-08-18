@@ -1,12 +1,9 @@
 #Phaser-webpack-starter
-----
-----
 
 This is a simple webpack starter creted for Phaser projects written in typescript. It contains webpack and webpack-dev-server
 
 #Running the starter
---
----
+
 
 1. First be sure that you have installed globally webpack. If no you can install them using this command
 ```javascript
